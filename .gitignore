@@ -1,4 +1,10 @@
 venv/
 .DS_Store
 test.py
+test2.py
+test3.py
 .idea/
+unit_for_OOP.py
+total.txt
+repr/
+temp_for_right_files.txt
